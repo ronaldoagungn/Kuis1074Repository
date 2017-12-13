@@ -1,0 +1,9 @@
+com\ronaldo\kuis1074\service\nilai_1074Service.class
+com\ronaldo\kuis1074\service\cv_1074Service.class
+com\ronaldo\kuis1074\entity\cv_1074Entity.class
+com\ronaldo\kuis1074\controller\cv_1074Controller.class
+com\ronaldo\kuis1074\repo\nilai_1074Repo.class
+com\ronaldo\kuis1074\Kuis1074Application.class
+com\ronaldo\kuis1074\entity\nilai_1074Entity.class
+com\ronaldo\kuis1074\repo\cv_1074Repo.class
+com\ronaldo\kuis1074\controller\nilai_1074Controller.class
